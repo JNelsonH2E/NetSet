@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <PingList>
+    <Ip_Address>172.16.4.24</Ip_Address>
+    <Description>Example PLC</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>172.16.4.25</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>172.16.4.27</Ip_Address>
+    <Description>Example Drive</Description>
+    <Results />
+  </PingList>
+</Table>

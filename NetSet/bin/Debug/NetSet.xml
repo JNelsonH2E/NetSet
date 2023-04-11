@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <NetSet>
+    <Ip_Address>192.168.0.11</Ip_Address>
+    <Subnet_Mask>255.255.255.0</Subnet_Mask>
+    <Description>Example2</Description>
+  </NetSet>
+  <NetSet>
+    <Ip_Address>192.168.0.10</Ip_Address>
+    <Subnet_Mask>255.255.255.0</Subnet_Mask>
+    <Description>Example1</Description>
+  </NetSet>
+  <NetSet>
+    <Ip_Address>192.168.0.12</Ip_Address>
+    <Subnet_Mask>255.255.255.0</Subnet_Mask>
+    <Description>Example3</Description>
+  </NetSet>
+  <NetSet>
+    <Ip_Address>192.168.0.13</Ip_Address>
+    <Subnet_Mask>255.255.255.0</Subnet_Mask>
+    <Description>Example4</Description>
+  </NetSet>
+  <NetSet>
+    <Ip_Address>192.168.0.14</Ip_Address>
+    <Subnet_Mask>255.255.255.0</Subnet_Mask>
+    <Description>Example5</Description>
+  </NetSet>
+</Table>

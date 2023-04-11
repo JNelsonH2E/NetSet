@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <PingList>
+    <Ip_Address>192.168.0.15</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.16</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.17</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.18</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.19</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.20</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.21</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.22</Ip_Address>
+    <Description>Example</Description>
+    <Results />
+  </PingList>
+</Table>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <PingList>
+    <Ip_Address>192.168.0.1</Ip_Address>
+    <Description>Example PLC</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.2</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.18</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.19</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.20</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.21</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>10.0.0.20</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.23</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.24</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.102</Ip_Address>
+    <Description>Example RIO</Description>
+    <Results />
+  </PingList>
+</Table>

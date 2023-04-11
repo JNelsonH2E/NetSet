@@ -1,0 +1,12 @@
+C:\Users\Jeff\source\repos\NetSet\NetSet\bin\Debug\NetSet.exe.config
+C:\Users\Jeff\source\repos\NetSet\NetSet\bin\Debug\NetSet.exe
+C:\Users\Jeff\source\repos\NetSet\NetSet\bin\Debug\NetSet.pdb
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.Properties.Resources.resources
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.csproj.GenerateResource.cache
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.exe
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.pdb
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.csprojResolveAssemblyReference.cache
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.CustomMsgBox.resources
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.PingList.resources
+C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Debug\NetSet.MainForm.resources

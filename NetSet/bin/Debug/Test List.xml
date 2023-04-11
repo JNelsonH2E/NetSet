@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Table>
+  <PingList>
+    <Ip_Address>192.168.0.1</Ip_Address>
+    <Description>Hello</Description>
+    <Results />
+  </PingList>
+  <PingList>
+    <Ip_Address>192.168.0.2</Ip_Address>
+    <Description>GoodBy</Description>
+    <Results />
+  </PingList>
+</Table>
