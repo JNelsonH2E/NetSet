@@ -9,3 +9,16 @@ C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Release\NetSet.csproj.GenerateResou
 C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Release\NetSet.csproj.CoreCompileInputs.cache
 C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Release\NetSet.exe
 C:\Users\Jeff\source\repos\NetSet\NetSet\obj\Release\NetSet.pdb
+C:\Users\jnelson\Source\repos\NetSet\NetSet\bin\Release\NetSet.exe.config
+C:\Users\jnelson\Source\repos\NetSet\NetSet\bin\Release\NetSet.exe
+C:\Users\jnelson\Source\repos\NetSet\NetSet\bin\Release\NetSet.pdb
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.csproj.AssemblyReference.cache
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.CustomMsgBox.resources
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.MainForm.resources
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.PingList.resources
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.Properties.Resources.resources
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.csproj.GenerateResource.cache
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.csproj.CoreCompileInputs.cache
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.exe
+C:\Users\jnelson\Source\repos\NetSet\NetSet\obj\Release\NetSet.pdb

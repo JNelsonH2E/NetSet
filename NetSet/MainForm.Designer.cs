@@ -96,7 +96,7 @@ namespace NetSet
             this.panel5.Controls.Add(this.label3);
             this.panel5.Controls.Add(this.label1);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel5.Location = new System.Drawing.Point(2, 507);
+            this.panel5.Location = new System.Drawing.Point(2, 586);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(580, 12);
             this.panel5.TabIndex = 3;
@@ -121,7 +121,7 @@ namespace NetSet
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(34, 9);
             this.label1.TabIndex = 1;
-            this.label1.Text = "ver 2.0.1";
+            this.label1.Text = "ver 2.1.0";
             // 
             // panel3
             // 
@@ -131,13 +131,13 @@ namespace NetSet
             this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
             this.panel3.Location = new System.Drawing.Point(550, 14);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(32, 493);
+            this.panel3.Size = new System.Drawing.Size(32, 572);
             this.panel3.TabIndex = 4;
             // 
             // pictureBox7
             // 
             this.pictureBox7.Image = global::NetSet.Properties.Resources.DwnArrow;
-            this.pictureBox7.Location = new System.Drawing.Point(2, 347);
+            this.pictureBox7.Location = new System.Drawing.Point(2, 403);
             this.pictureBox7.Name = "pictureBox7";
             this.pictureBox7.Size = new System.Drawing.Size(28, 34);
             this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -148,7 +148,7 @@ namespace NetSet
             // pictureBox6
             // 
             this.pictureBox6.Image = global::NetSet.Properties.Resources.UpArrow;
-            this.pictureBox6.Location = new System.Drawing.Point(2, 311);
+            this.pictureBox6.Location = new System.Drawing.Point(2, 367);
             this.pictureBox6.Name = "pictureBox6";
             this.pictureBox6.Size = new System.Drawing.Size(28, 35);
             this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -184,7 +184,7 @@ namespace NetSet
             this.Button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button3.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button3.ForeColor = System.Drawing.Color.White;
-            this.Button3.Location = new System.Drawing.Point(0, 110);
+            this.Button3.Location = new System.Drawing.Point(0, 166);
             this.Button3.Name = "Button3";
             this.Button3.Size = new System.Drawing.Size(98, 26);
             this.Button3.TabIndex = 5;
@@ -204,7 +204,7 @@ namespace NetSet
             this.Button4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button4.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button4.ForeColor = System.Drawing.Color.White;
-            this.Button4.Location = new System.Drawing.Point(0, 140);
+            this.Button4.Location = new System.Drawing.Point(0, 196);
             this.Button4.Name = "Button4";
             this.Button4.Size = new System.Drawing.Size(98, 26);
             this.Button4.TabIndex = 6;
@@ -224,7 +224,7 @@ namespace NetSet
             this.Button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button5.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button5.ForeColor = System.Drawing.Color.White;
-            this.Button5.Location = new System.Drawing.Point(0, 170);
+            this.Button5.Location = new System.Drawing.Point(0, 226);
             this.Button5.Name = "Button5";
             this.Button5.Size = new System.Drawing.Size(98, 26);
             this.Button5.TabIndex = 7;
@@ -244,7 +244,7 @@ namespace NetSet
             this.Button6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button6.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button6.ForeColor = System.Drawing.Color.White;
-            this.Button6.Location = new System.Drawing.Point(0, 200);
+            this.Button6.Location = new System.Drawing.Point(0, 256);
             this.Button6.Name = "Button6";
             this.Button6.Size = new System.Drawing.Size(98, 26);
             this.Button6.TabIndex = 8;
@@ -264,7 +264,7 @@ namespace NetSet
             this.Button7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button7.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button7.ForeColor = System.Drawing.Color.White;
-            this.Button7.Location = new System.Drawing.Point(0, 313);
+            this.Button7.Location = new System.Drawing.Point(0, 374);
             this.Button7.Name = "Button7";
             this.Button7.Size = new System.Drawing.Size(98, 26);
             this.Button7.TabIndex = 9;
@@ -284,7 +284,7 @@ namespace NetSet
             this.Button11.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button11.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button11.ForeColor = System.Drawing.Color.White;
-            this.Button11.Location = new System.Drawing.Point(0, 260);
+            this.Button11.Location = new System.Drawing.Point(0, 316);
             this.Button11.Name = "Button11";
             this.Button11.Size = new System.Drawing.Size(98, 26);
             this.Button11.TabIndex = 18;
@@ -304,7 +304,7 @@ namespace NetSet
             this.Button10.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button10.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button10.ForeColor = System.Drawing.Color.White;
-            this.Button10.Location = new System.Drawing.Point(0, 230);
+            this.Button10.Location = new System.Drawing.Point(0, 286);
             this.Button10.Name = "Button10";
             this.Button10.Size = new System.Drawing.Size(98, 26);
             this.Button10.TabIndex = 17;
@@ -324,7 +324,7 @@ namespace NetSet
             this.Button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button9.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button9.ForeColor = System.Drawing.Color.White;
-            this.Button9.Location = new System.Drawing.Point(0, 345);
+            this.Button9.Location = new System.Drawing.Point(0, 406);
             this.Button9.Name = "Button9";
             this.Button9.Size = new System.Drawing.Size(98, 26);
             this.Button9.TabIndex = 16;
@@ -344,7 +344,7 @@ namespace NetSet
             this.Button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button2.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button2.ForeColor = System.Drawing.Color.White;
-            this.Button2.Location = new System.Drawing.Point(0, 427);
+            this.Button2.Location = new System.Drawing.Point(0, 509);
             this.Button2.Name = "Button2";
             this.Button2.Size = new System.Drawing.Size(98, 26);
             this.Button2.TabIndex = 14;
@@ -373,7 +373,7 @@ namespace NetSet
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 20;
             this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.dataGridView1.Size = new System.Drawing.Size(449, 94);
+            this.dataGridView1.Size = new System.Drawing.Size(449, 150);
             this.dataGridView1.TabIndex = 5;
             // 
             // Adaptor
@@ -408,11 +408,11 @@ namespace NetSet
             this.Description});
             this.dataGridView2.DataSource = this.dataSet1;
             this.dataGridView2.GridColor = System.Drawing.SystemColors.ButtonFace;
-            this.dataGridView2.Location = new System.Drawing.Point(100, 315);
+            this.dataGridView2.Location = new System.Drawing.Point(100, 371);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersWidth = 20;
             this.dataGridView2.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.dataGridView2.Size = new System.Drawing.Size(449, 193);
+            this.dataGridView2.Size = new System.Drawing.Size(449, 215);
             this.dataGridView2.TabIndex = 6;
             this.dataGridView2.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellEndEdit);
             this.dataGridView2.RowEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_RowEnter);
@@ -464,14 +464,14 @@ namespace NetSet
             // 
             // TextBox2
             // 
-            this.TextBox2.Location = new System.Drawing.Point(104, 127);
+            this.TextBox2.Location = new System.Drawing.Point(104, 183);
             this.TextBox2.Name = "TextBox2";
             this.TextBox2.Size = new System.Drawing.Size(123, 20);
             this.TextBox2.TabIndex = 7;
             // 
             // TextBox3
             // 
-            this.TextBox3.Location = new System.Drawing.Point(233, 127);
+            this.TextBox3.Location = new System.Drawing.Point(233, 183);
             this.TextBox3.Name = "TextBox3";
             this.TextBox3.Size = new System.Drawing.Size(123, 20);
             this.TextBox3.TabIndex = 8;
@@ -479,7 +479,7 @@ namespace NetSet
             // 
             // TextBox4
             // 
-            this.TextBox4.Location = new System.Drawing.Point(104, 189);
+            this.TextBox4.Location = new System.Drawing.Point(104, 245);
             this.TextBox4.Name = "TextBox4";
             this.TextBox4.Size = new System.Drawing.Size(123, 20);
             this.TextBox4.TabIndex = 9;
@@ -492,7 +492,7 @@ namespace NetSet
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.label2.Location = new System.Drawing.Point(232, 192);
+            this.label2.Location = new System.Drawing.Point(232, 248);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(10, 15);
             this.label2.TabIndex = 11;
@@ -515,7 +515,7 @@ namespace NetSet
             this.panel4.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel4.Location = new System.Drawing.Point(2, 14);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(98, 493);
+            this.panel4.Size = new System.Drawing.Size(98, 572);
             this.panel4.TabIndex = 12;
             // 
             // Button8
@@ -526,7 +526,7 @@ namespace NetSet
             this.Button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Button8.Font = new System.Drawing.Font("Cambria", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Button8.ForeColor = System.Drawing.Color.White;
-            this.Button8.Location = new System.Drawing.Point(0, 459);
+            this.Button8.Location = new System.Drawing.Point(0, 537);
             this.Button8.Name = "Button8";
             this.Button8.Size = new System.Drawing.Size(98, 26);
             this.Button8.TabIndex = 19;
@@ -549,7 +549,7 @@ namespace NetSet
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.ClientSize = new System.Drawing.Size(584, 521);
+            this.ClientSize = new System.Drawing.Size(584, 600);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.TextBox4);
